@@ -13,3 +13,10 @@
 3. Applied Steps
 
 ![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/bb311733a2ef7fb951c3ea175c765ac7c2eb4f97/Dashboard%201/Images/3.jpg)
+
+
+# Dax Queries
+
+1. Creating new column named **Avg-Delivery** to store the number if days between *Order Date* and *Ship Date*
+
+   ![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/a4956d9de7132b842ba6c2c7b697dba8f344f37a/Dashboard%201/Images/4%20(%20new%20column%20using%20DAX%20).png)
