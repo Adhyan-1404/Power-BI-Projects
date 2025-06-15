@@ -12,7 +12,7 @@
 
 3. Applied Steps
 
-![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/18461eb99664e3fabc14014bcdea59e2525fc20c/Dashboard%201/Image%20Assets/3.jpg)
+   ![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/18461eb99664e3fabc14014bcdea59e2525fc20c/Dashboard%201/Image%20Assets/3.jpg)
 
 
 # Dax Queries
