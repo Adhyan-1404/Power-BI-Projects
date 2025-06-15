@@ -5,4 +5,4 @@
 
 2. Replacing Values in **Returns** Column ( changing *#N/A* to *0* to maintain consistency as other option is *1* )
 
-![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/efce022082ebdb89940eb633f0cdf88f43d799a1/Dashboard%201/Images/2%20(replace%20na).jpg) ![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/0687c505bf8908508cc05a321a097f8941f4a95a/Dashboard%201/Images/2.1.jpg) ![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/0687c505bf8908508cc05a321a097f8941f4a95a/Dashboard%201/Images/2.2.jpg)
+![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/efce022082ebdb89940eb633f0cdf88f43d799a1/Dashboard%201/Images/2%20(replace%20na).jpg) | ![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/0687c505bf8908508cc05a321a097f8941f4a95a/Dashboard%201/Images/2.1.jpg) | ![Image Alt](https://github.com/Adhyan-1404/Power-BI-Projects/blob/0687c505bf8908508cc05a321a097f8941f4a95a/Dashboard%201/Images/2.2.jpg)
