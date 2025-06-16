@@ -22,4 +22,8 @@
 
 6. Year-over-Year Trends :
    - Monthly Sales by YoY (2019 vs 2020):
-     - kzv
+     - **2020 outperformed 2019** consistently across the year.
+     - Peaked in **September**, **November** and **December.**
+   - Monthly Profit by YoY (2019 vs 2020):
+     - **2020 outperformed 2019** across the year except in **April** and **February**.
+     - Peaked in **March**, **October** and **December.**
