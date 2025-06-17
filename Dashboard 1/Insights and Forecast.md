@@ -40,4 +40,12 @@
 ### Summary Insights :-
 - Focus Marketing in **South Region** to boost sales in the area.
 - **Phones**, **Chairs** and **Binders** inventory should be maintained due to high sales.
-- Target Consumer Segment as it is dominating   
+- Target **Consumer Segment** as it is dominating and exploring growth in other segments.
+- Keep maintaing strong infrastructure of **Cash on Delivery** due to high preference while keep expanding other payment options.
+- **End-of-year** strategies and campaigns are crucial for maximizing revenue and profit.
+- Continue prioritizing **Standard Class** shipping due to high preference while optimizing speed and reliability.
+
+
+
+
+
