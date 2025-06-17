@@ -37,5 +37,7 @@
 9. Sales and Profir by State :
     - **California**, **Texas**, and **New York** are highest contributers.
 
-### Summary :-
-- 
+### Summary Insights :-
+- Focus Marketing in **South Region** to boost sales in the area.
+- **Phones**, **Chairs** and **Binders** inventory should be maintained due to high sales.
+- Target Consumer Segment as it is dominating   
