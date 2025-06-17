@@ -34,4 +34,7 @@
 8. Preferred Payment Mode :
    - Top Preferred Payment Mode - **Cash on Delivery**
 
-9. 
+9. Sales and Profir by State :
+    - **California**, **Texas**, and **New York** are highest contributers.
+
+## Summary
