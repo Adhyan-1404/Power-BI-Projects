@@ -6,21 +6,21 @@
    - Average Time Taken to Ship Items - **4 days**
    - Total Quantity of Items Sold - **22k**
 
-2. Sales by Region :
+#### 2. Sales by Region :
    - Top Performing Region - **West**
    - Least Performing Region - **South**
 
-3. Sales by Segment :
+#### 3. Sales by Segment :
    - Top Performing Segment - **Consumers**
    - Least Performing Segment - **Home Office**
 
-4. Category-wise Sales :
+#### 4. Category-wise Sales :
    - Top Performing Category - **Office Supplies**
 
-5. Sub-Category-wise Sales :
+#### 5. Sub-Category-wise Sales :
    - Top Performing Sub Category - **Phones**
 
-6. Year-over-Year Trends :
+#### 6. Year-over-Year Trends :
    - Monthly Sales by YoY (2019 vs 2020) :
      
      - **2020 outperformed 2019** consistently across the year.
@@ -31,13 +31,13 @@
      - **2020 outperformed 2019** across the year except in **April** and **February**.
      - Peaked in **March**, **October** and **December.**
 
-7. Preferred Shipping Mode :
+#### 7. Preferred Shipping Mode :
    - Top Preferred Shipping Mode - **Standard Class**
 
-8. Preferred Payment Mode :
+#### 8. Preferred Payment Mode :
    - Top Preferred Payment Mode - **Cash on Delivery**
 
-9. Sales and Profir by State :
+#### 9. Sales and Profir by State :
     - **California**, **Texas**, and **New York** are highest contributers.
 
 ### Summary Insights :-
