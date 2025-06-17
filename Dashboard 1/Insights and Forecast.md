@@ -27,3 +27,11 @@
    - Monthly Profit by YoY (2019 vs 2020):
      - **2020 outperformed 2019** across the year except in **April** and **February**.
      - Peaked in **March**, **October** and **December.**
+
+7. Preferred Shipping Mode :
+   - Top Preferred Shipping Mode - **Standard Class**
+
+8. Preferred Payment Mode :
+   - Top Preferred Payment Mode - **Cash on Delivery**
+
+9. 
