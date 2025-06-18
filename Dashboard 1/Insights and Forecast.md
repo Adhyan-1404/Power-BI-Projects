@@ -56,3 +56,5 @@ Over the next 30 days, projected sales are expected to average approximately 3,0
 The forecast was developed using historical trends and seasonality patterns observed over the past two years.
 
 
+
+
