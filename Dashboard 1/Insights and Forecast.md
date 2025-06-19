@@ -58,7 +58,7 @@ A temporary decline is anticipated at the beginning of the forecast period, foll
 
 Notably, similar trends were observed in previous forecasts—periods of short-term decline were often followed by recovery and strong performance, particularly during mid-year and end-of-year months. For example, sales saw significant spikes in June and December during both 2019 and 2020.
 
-Note: This forecast is based on historical trends and may not fully account for external market changes. Actual sales may vary.
+**Note :** This forecast is based on historical trends and may not fully account for external market changes. Actual sales may vary.
 
 
 
