@@ -52,9 +52,13 @@
 
 # Forecast
 
-Over the next 30 days, projected sales are expected to average approximately 3,000 units.
-The forecast was developed using historical trends and seasonality patterns observed over the past two years.
+Over the next 30 days, projected sales are expected to average approximately 3,500 units. This forecast has been developed using historical data and seasonality patterns observed over the past two years.
 
+A temporary decline is anticipated at the beginning of the forecast period, followed by a phase of growth. Sales are then expected to stabilize toward the end of the period.
+
+Notably, similar trends were observed in previous forecasts—periods of short-term decline were often followed by recovery and strong performance, particularly during mid-year and end-of-year months. For example, sales saw significant spikes in June and December during both 2019 and 2020.
+
+Note: This forecast is based on historical trends and may not fully account for external market changes. Actual sales may vary.
 
 
 
